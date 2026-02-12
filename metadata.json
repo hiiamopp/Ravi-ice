@@ -1,0 +1,8 @@
+{
+  "name": "Ravi's Ice Cream Hub",
+  "description": "A premium digital storefront for Ravi's Ice Cream Shop, featuring brand-wise browsing, price filtering, and a Gemini-powered AI flavor assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
